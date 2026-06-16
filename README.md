@@ -61,8 +61,13 @@ normalized-entropy algorithm to flag and reject high-risk (high-uncertainty)
 samples.
 
 ---
+## 6. Demo
 
-## 4. Requirements
+   ```bash
+   [pyloric-ultrasound-demo](https://huggingface.co/spaces/noahwang1996/pyloric-ultrasound-demo)
+   ```
+
+## 5. Requirements
 
 Install dependencies with:
 
