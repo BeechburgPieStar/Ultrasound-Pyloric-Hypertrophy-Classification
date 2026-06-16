@@ -63,9 +63,7 @@ samples.
 ---
 ## 6. Demo
 
-   ```bash
-   [pyloric-ultrasound-demo](https://huggingface.co/spaces/noahwang1996/pyloric-ultrasound-demo)
-   ```
+[pyloric-ultrasound-demo](https://huggingface.co/spaces/noahwang1996/pyloric-ultrasound-demo)
 
 ## 5. Requirements
 
